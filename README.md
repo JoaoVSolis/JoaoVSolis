@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🧙‍♂️ João Santos</h1>
+  <h1> João Santos</h1>
   <h3>Back-End Developer | Logic Crafter | API Architect</h3>
 </div>
 
